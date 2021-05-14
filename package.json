@@ -1,0 +1,22 @@
+{
+  "name": "udemy-angular10-course-project",
+  "version": "1.0.0",
+  "description": "course project angular 10 von udemy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelEgli/udemy-angular10-course-project.git"
+  },
+  "author": "Michael Egli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelEgli/udemy-angular10-course-project/issues"
+  },
+  "homepage": "https://github.com/MichaelEgli/udemy-angular10-course-project#readme",
+  "dependencies": {
+    "@angular/cli": "^11.2.10"
+  }
+}
